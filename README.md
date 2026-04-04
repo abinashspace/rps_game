@@ -1,5 +1,11 @@
-What I Learned From Building This Simple Game
----------------------------------------------
+# RPS Game
+
+A neon-themed Rock, Paper, Scissors game built with Python and Tkinter.
+
+## Tech Stack
+- Python, Tkinter
+
+## What I Learned From Building This
 
 - Used functions to organize different parts of the game.
 - Applied variables to keep track of scores and moves.
